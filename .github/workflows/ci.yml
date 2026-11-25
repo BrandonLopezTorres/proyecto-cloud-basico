@@ -1,4 +1,4 @@
-name: CI y Seguridad Dockerr
+name: CI y Seguridad Docker
 
 on:
   push:
